@@ -12,7 +12,6 @@ class BurgerBuilder extends Component {
             meat: 2
         }
     }
-
     render() {
         return (
             <Aux>
