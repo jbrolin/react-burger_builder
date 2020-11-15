@@ -9,5 +9,4 @@ const drawerToggle = (props) => (
     </div>
 );
 
-
 export default drawerToggle;
