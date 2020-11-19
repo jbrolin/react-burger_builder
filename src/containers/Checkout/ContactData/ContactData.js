@@ -100,8 +100,6 @@ class ContactData extends Component {
         for (let formElementId in this.state.orderForm){
             formData[formElementId] = this.state.orderForm[formElementId].value;
         }
-
-        console.log(this.props.ingredients);
         
         this.setState({loading: true});
         
