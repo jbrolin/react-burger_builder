@@ -1,6 +1,15 @@
 #Prerequsities
 Node ^15
 
+# Introduction
+This project was created by me during the React course "React the complete guide"
+It includes the following techniques:
+React hooks,
+React router
+Redux for state managment, 
+Axios for http request handling,
+Firebase as database with authenication.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
