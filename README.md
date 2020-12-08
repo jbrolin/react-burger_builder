@@ -1,3 +1,6 @@
+#Prerequsities
+Node ^15
+
 # Introduction
 This project was created by me during the React course "React the complete guide"
 It includes the following techniques:
